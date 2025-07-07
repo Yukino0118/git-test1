@@ -1,0 +1,7 @@
+test
+<<<<<<< HEAD
+add from master
+=======
+add from bugfix
+>>>>>>> bugfix
+DD
